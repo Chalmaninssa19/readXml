@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContactManager>
+    <Person>
+        <firstname>Inssa</firstname>
+        <lastname>Chalman</lastname>
+        <street>Rue de janeiro</street>
+        <postalCode>don't know</postalCode>
+        <city>Tana</city>
+        <email>man@gmail.com</email>
+    </Person>
+    <Person>
+        <firstname>Inssa</firstname>
+        <lastname>Chalman</lastname>
+        <street>Rue de janeiro</street>
+        <postalCode>don't know</postalCode>
+        <city>Tana</city>
+        <email>man@gmail.com</email>
+    </Person>
+</ContactManager>
